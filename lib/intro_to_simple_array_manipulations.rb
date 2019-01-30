@@ -44,4 +44,4 @@ end
 
 def using_flatten(array)
   array.flatten
-ends
+end
